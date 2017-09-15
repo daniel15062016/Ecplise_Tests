@@ -120,7 +120,8 @@ public class First_Git_Class
 			    Thread.sleep(3000);
 			    
 			    System.out.println("Back from the popup to: " + driver.getCurrentUrl());
-			    System.out.println("tEST 1 WITH git!!!");
+			    System.out.println("Test 1 WITH git!!!");
+			    System.out.println("having git makes life easier");
 			      
 			    // #10 - close the browser
 			    driver.close();

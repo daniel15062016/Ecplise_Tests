@@ -52,5 +52,7 @@
 	<classpathentry kind="lib" path="E:/Selenium/extentreports-java-2.41.2/lib/snakeyaml-1.15.jar"/>
 	<classpathentry kind="lib" path="E:/Selenium/extentreports-java-2.41.2/lib/sqlite-jdbc-3.8.11.1.jar"/>
 	<classpathentry kind="lib" path="E:/Selenium/extentreports-java-2.41.2/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/landm/Documents/QA Course/SeleniumDrivers/Selenium Java Client/client-combined-3.4.0-nodeps.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
