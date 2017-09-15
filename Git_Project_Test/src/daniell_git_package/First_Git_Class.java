@@ -79,7 +79,7 @@ public class First_Git_Class
 			    Select delivery = new Select(driver.findElement(By.id("input_5_21")));
 			    delivery.selectByVisibleText("Delivery   +$3.00");
 			    
-			    Thread.sleep(5000);
+			    Thread.sleep(3000);
 			    
 			    // #5 - Assert current price of 10.5
 			    String currentPrice2 = driver.findElement(By.id("input_5_2")).getAttribute("value");
@@ -117,9 +117,10 @@ public class First_Git_Class
 			    // #9 - close the popup
 			    popup.accept();
 			    
-			    Thread.sleep(5000);
+			    Thread.sleep(3000);
 			    
 			    System.out.println("Back from the popup to: " + driver.getCurrentUrl());
+			    System.out.println("tEST 1 WITH git!!!");
 			      
 			    // #10 - close the browser
 			    driver.close();
