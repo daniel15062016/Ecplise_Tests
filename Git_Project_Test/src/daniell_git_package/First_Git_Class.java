@@ -121,6 +121,8 @@ public class First_Git_Class
 			    
 			    System.out.println("Back from the popup to: " + driver.getCurrentUrl());
 			    System.out.println("tEST 1 WITH git!!!");
+			    
+			    System.out.println("the time is 00:03");
 			      
 			    // #10 - close the browser
 			    driver.close();
