@@ -120,8 +120,14 @@ public class First_Git_Class
 			    Thread.sleep(3000);
 			    
 			    System.out.println("Back from the popup to: " + driver.getCurrentUrl());
+<<<<<<< HEAD
 			    System.out.println("Test 1 WITH git!!!");
 			    System.out.println("having git makes life easier");
+=======
+			    System.out.println("tEST 1 WITH git!!!");
+			    
+			    System.out.println("the time is 00:03");
+>>>>>>> branch 'master' of https://github.com/daniel15062016/Ecplise_Tests.git
 			      
 			    // #10 - close the browser
 			    driver.close();
