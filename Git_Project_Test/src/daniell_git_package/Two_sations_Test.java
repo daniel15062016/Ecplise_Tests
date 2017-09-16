@@ -28,10 +28,10 @@ public class Two_sations_Test
 	  
 	  String dlFirstName = new String ("Daniel");
 	  String dlLastName = new String ("test");
-	  String dlEmail = new String ("141716092017@test.com");
+	  String dlEmail = new String ("224316092017@test.com");
 	  String USPrefix = new String ("1");
-	  String dlPhone = new String ("55555555");
-	  String dlpassword = new String ("123456");
+	  String dlPhone = new String ("4444444444");
+	  String dlpassword = new String ("123123");
 	  String dlCountry = new String ("United States");
 	  static ExtentTest test;
 	  static ExtentReports extent;
